@@ -116,7 +116,7 @@ def get_restaurant_id(restaurant_dirname: str):
 def fetch_restaurant_list(city_name: str):
     params = {
         'lang': 'zh',
-        'api-key': 'cgecegcegcc',
+        # 'api-key': 'cgecegcegcc', # 这个参数可以不传
         'per_page': '350',  # 上海餐厅最多，共有329家，可以一次全查出来
         'page': '1',
     }
