@@ -1,0 +1,2 @@
+# diningcity_watcher
+监控_鼎食聚_餐厅周_餐位的空余情况
